@@ -4,8 +4,8 @@ just two simple ways to obtain a product category from a given product descripti
 # Requirements
 
 In order not to upload a 2.5 GB Docker image, I just pushed the source files and the corresponding requirements.txt file. To install them use:
-`sudo pip install -f requirements.txt`
+`pip install -f requirements.txt`
 
-# training
+# Training
 
-open t
+Run a jupyter notebook and open one of the GfK_assigment_*.ipynb files
