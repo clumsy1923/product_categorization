@@ -8,4 +8,5 @@ In order not to upload a 2.5 GB Docker image, I just pushed the source files and
 
 # Training
 
-Run a jupyter notebook and open one of the GfK_assigment_*.ipynb files
+Run a jupyter notebook and open one of the GfK_assigment_\*.ipynb files
+The code is documented and self explaining
