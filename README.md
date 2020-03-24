@@ -1,5 +1,5 @@
-# product_categorization
-just two simple ways to obtain a product category from a given product description
+# Product Categorization
+...just two simple ways to obtain a product category from a given product description.
 
 # Requirements
 
@@ -11,7 +11,7 @@ In order to avoid uploading a 2.5 GB Docker image, I just pushed the source file
 
 Run a jupyter notebook and open one of the *train\_\*.ipynb* files
 The code is documented and self explaining. It reads the data file *testset_C.csv*, converts it to training and test data and trains a neural network (DL) or a Unigram model on it.
-The models and data are saved in the *\*\_data folders*.
+The models and data are saved in the *\*\_data* folders.
 
 # Inference
 
