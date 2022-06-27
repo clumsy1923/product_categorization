@@ -5,7 +5,7 @@
 
 In order to avoid uploading a 2.5 GB Docker image, I just pushed the source files and my pip-frozen *requirements.txt* file. The code has been written on Python 3.6.9, so don't use Python 2 please. To install the requirements use:
 
-`pip3 install -f requirements.txt`
+`pip3 install -r requirements.txt`
 
 # Training
 
